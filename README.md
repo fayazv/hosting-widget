@@ -1,4 +1,4 @@
-cpanel-widget
+hosting-widget
 =============
 
 Widget for selling GoDaddy reseller cPanel
@@ -9,7 +9,7 @@ Simply change the `prog_id` in the form and you are ready to rock!
 
 ## Example
 
-To see a live example, visit http://resellers.github.io/cpanel-widget/
+To see a live example, visit http://resellers.github.io/hosting-widget/
 
 ## Getting Started
 

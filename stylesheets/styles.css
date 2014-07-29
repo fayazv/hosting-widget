@@ -138,6 +138,23 @@ header ul a {
   height:40px;
 }
 
+p.view
+{
+  line-height: 24px;
+}
+
+p.view a, p.view small
+{
+  display: block;
+}
+
+p.view small
+{
+  margin: 0;
+  font-size: 12px;
+  line-height: 18px;
+}
+
 strong {
   color:#222;
   font-weight:700;
@@ -157,6 +174,7 @@ header ul a strong {
   font-size:14px;
   display:block;
   color:#222;
+  line-height: 21px;
 }
 
 section {
