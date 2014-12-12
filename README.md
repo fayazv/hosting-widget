@@ -19,4 +19,19 @@ To see a live example, visit http://resellers.github.io/hosting-widget/
 ```html
 <input type="hidden" name="prog_id" value="domainspricedright"> <!-- enter your prog_id -->
 ```
+4. Change the prog_id in the action url
 
+```
+  <form method="post" action="https://www.secureserver.net/gdshop/xt_orderform_addmany.asp?prog_id=domainspricedright"><!-- enter your prog_id -->
+          <input type="hidden" name="tcount" value="1">
+          <input type="hidden" name="qty_1" value="1">
+          <input type="hidden" name="item_1" value="1">
+          <input type="hidden" name="prog_id" value="domainspricedright"> <!-- enter your prog_id -->
+          <select name="pf_id_1">
+            <option value="32756"> Starter Managed WordPress - US - 1 Month (recurring)</option>
+          </select>
+          <input type="submit" value="Add to Cart">
+        </form>
+
+
+```
